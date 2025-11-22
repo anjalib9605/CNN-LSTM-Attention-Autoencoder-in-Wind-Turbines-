@@ -86,8 +86,8 @@ Convert raw time-series into fixed-length sliding windows.
 This work is part of a collaborative research effort.  
 Contributors include:
 
-- **Anjali B**  
-- **Sreevidya PA**  
-- **Noel Sushan**  
+- **Anjali B**  <br> 
+- **Sreevidya PA**  <br> 
+- **Noel Sushan**  <br> 
 
 All contributors participated in the design, development, and analysis of the model.
