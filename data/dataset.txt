@@ -1,0 +1,2 @@
+download dataset from: 
+https://www.kaggle.com/datasets/azizkasimov/wind-turbine-scada-data-for-early-fault-detection
