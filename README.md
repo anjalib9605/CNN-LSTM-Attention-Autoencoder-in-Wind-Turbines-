@@ -72,13 +72,13 @@ Convert raw time-series into fixed-length sliding windows.
 ---
 
 # **Technologies Used**
--Python
--NumPy
--Pandas
--TensorFlow / Keras
--Scikit-learn
--Matplotlib
--Jupyter Notebook
+-Python <br>
+-NumPy <br>
+-Pandas <br>
+-TensorFlow / Keras <br>
+-Scikit-learn <br>
+-Matplotlib <br>
+-Jupyter Notebook 
 
 
 ## Project Collaborators
@@ -86,8 +86,8 @@ Convert raw time-series into fixed-length sliding windows.
 This work is part of a collaborative research effort.  
 Contributors include:
 
-- **Anjali B**  <br> 
-- **Sreevidya PA**  <br> 
-- **Noel Sushan**  <br> 
+- **Anjali B**   
+- **Sreevidya PA**   
+- **Noel Sushan**  
 
 All contributors participated in the design, development, and analysis of the model.
